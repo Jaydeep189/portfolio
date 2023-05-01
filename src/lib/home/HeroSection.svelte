@@ -1,7 +1,3 @@
-<script>
-	import Me from '../../assets/photos/me.jpg';
-</script>
-
 <section class=" max-w-5xl mx-auto py-6 md:py-16 lg:py-20">
 	<div class=" grid grid-cols-1 md:grid-cols-2">
 		<div class=" max-sm:flex max-sm:justify-center">
@@ -11,7 +7,7 @@
 				>
 					<div class=" rounded-full p-2 md:p-4 bg-[#D9D9D9] w-fit">
 						<img
-							src={Me}
+							src="/me.jpg"
 							class="rounded-full group-hover:scale-110 transition-transform duration-300 cursor-pointer"
 							alt=""
 						/>

@@ -29,6 +29,8 @@
 	"type": "module",
 	"dependencies": {
 		"@tailwindcss/typography": "^0.5.9",
-		"lucide-svelte": "^0.190.0"
+		"lucide-svelte": "^0.190.0",
+		"siema": "^1.5.1",
+		"swiper": "^9.2.4"
 	}
 }
