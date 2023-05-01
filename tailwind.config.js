@@ -7,7 +7,7 @@ export default {
         carveat: ['Caveat', 'cursive']
       },
       backgroundImage: {
-        '1': "url('src/assets/bg/bg.svg')"
+        '1': "url('/bg.svg')"
       }
     },
   },
