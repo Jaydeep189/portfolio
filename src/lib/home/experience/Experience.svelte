@@ -29,4 +29,4 @@
 	</div>
 </section>
 
-<Seperator color=" border-red-700" />
+<Seperator color=" border-fuchsia-600" />
