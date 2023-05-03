@@ -5,7 +5,7 @@
 	import Seperator from '$lib/util/Seperator.svelte';
 </script>
 
-<section class=" font-mono py-10">
+<section id="work" class=" font-mono py-10 relative">
 	<div class="max-w-6xl mx-auto max-lg:mx-5">
 		<h3 class=" text-purple-800 text-2xl font-semibold">Work</h3>
 		<h2 class=" font-bold text-3xl">Projects Completed</h2>

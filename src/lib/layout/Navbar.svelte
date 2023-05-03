@@ -17,8 +17,8 @@
 		<li class=" hover:text-purple-800 transition-all duration-300">
 			<a href="/#work">Work</a>
 		</li>
-		<li class=" hover:text-purple-800 transition-all duration-300">
-			<a href="/#work">Skills</a>
+		<li class=" transition-all duration-300">
+			<a href="/#skills" class="hover:text-purple-800">Skills</a>
 		</li>
 		<li class=" hover:text-purple-800 transition-all duration-300">
 			<a href="/#about">About</a>
@@ -27,7 +27,7 @@
 			<a href="/#about">Blog</a>
 		</li>
 		<li class=" hover:text-purple-800 transition-all duration-300">
-			<a href="/#about">Contact</a>
+			<a href="/#contact">Contact</a>
 		</li>
 	</ul>
 </nav>
