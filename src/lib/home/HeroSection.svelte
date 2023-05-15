@@ -1,7 +1,3 @@
-<svelte:head>
-	<link rel="preload" as="image" href="/me.webp" />
-</svelte:head>
-
 <section class=" max-w-5xl mx-auto py-6 md:py-16 lg:py-20">
 	<div class=" grid grid-cols-1 md:grid-cols-2 gap-10">
 		<div class=" max-sm:flex max-sm:justify-center">
