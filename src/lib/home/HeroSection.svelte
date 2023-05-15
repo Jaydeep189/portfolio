@@ -1,14 +1,18 @@
+<svelte:head>
+	<link rel="preload" as="image" href="/me.webp" />
+</svelte:head>
+
 <section class=" max-w-5xl mx-auto py-6 md:py-16 lg:py-20">
-	<div class=" grid grid-cols-1 md:grid-cols-2">
+	<div class=" grid grid-cols-1 md:grid-cols-2 gap-10">
 		<div class=" max-sm:flex max-sm:justify-center">
-			<div class="group w-fit max-w-[200px] md:max-w-sm lg:max-w-none mx-5 lg:mx-auto">
+			<div class="group w-fit max-w-[250px] md:max-w-sm lg:max-w-none mx-5 lg:mx-auto">
 				<div
 					class="rounded-full group-hover:bg-purple-800/90 transition-all duration-300 p-2 md:p-4 bg-[#C8C8C8] w-fit"
 				>
 					<div class=" rounded-full p-2 md:p-4 bg-[#D9D9D9] w-fit">
 						<img
 							src="/me.jpg"
-							class="rounded-full group-hover:scale-110 transition-transform duration-300 cursor-pointer"
+							class="rounded-full aspect-auto group-hover:scale-110 transition-transform duration-300 cursor-pointer"
 							alt=""
 						/>
 					</div>

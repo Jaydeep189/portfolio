@@ -1,4 +1,4 @@
-<footer aria-label="Site Footer" class=" font-mono">
+<footer aria-label="Site Footer" id="contact" class=" font-mono">
 	<div class="mx-auto max-w-5xl px-4 py-16 sm:px-6 lg:px-8">
 		<div class="flex justify-center">
 			<h1
@@ -9,29 +9,36 @@
 		</div>
 
 		<p class="mx-auto mt-6 max-w-md text-center leading-relaxed text-gray-500">
-			Lorem ipsum dolor, sit amet consectetur adipisicing elit. Incidunt consequuntur amet culpa cum
-			itaque neque.
+			You can reach out to me via social links given below, or email me at
+			<a
+				href="mailto:sjaydeep189@gmail.com"
+				class=" hover:text-purple-700 transition-colors duration-300">sjaydeep189@gmail.cpm</a
+			>
 		</p>
 
 		<nav aria-label="Footer Nav" class="mt-12">
 			<ul class="flex flex-wrap justify-center gap-6 md:gap-8 lg:gap-12">
 				<li>
-					<a class="text-gray-700 transition hover:text-gray-700/75" href="/"> About </a>
+					<a class="text-gray-700 transition hover:text-gray-700/75" href="/#about"> About </a>
 				</li>
 
 				<li>
-					<a class="text-gray-700 transition hover:text-gray-700/75" href="/"> Education </a>
+					<a class="text-gray-700 transition hover:text-gray-700/75" href="/#education">
+						Education
+					</a>
 				</li>
 
 				<li>
-					<a class="text-gray-700 transition hover:text-gray-700/75" href="/"> Experience </a>
+					<a class="text-gray-700 transition hover:text-gray-700/75" href="/#experience">
+						Experience
+					</a>
 				</li>
 				<li>
-					<a class="text-gray-700 transition hover:text-gray-700/75" href="/">Skills </a>
+					<a class="text-gray-700 transition hover:text-gray-700/75" href="/#skills">Skills </a>
 				</li>
 
 				<li>
-					<a class="text-gray-700 transition hover:text-gray-700/75" href="/"> Projects </a>
+					<a class="text-gray-700 transition hover:text-gray-700/75" href="/#work"> Projects </a>
 				</li>
 			</ul>
 		</nav>
@@ -39,7 +46,7 @@
 		<ul class="mt-12 flex justify-center gap-6 md:gap-8">
 			<li>
 				<a
-					href="/"
+					href="https://www.instagram.com/jaydeep.189/"
 					rel="noreferrer"
 					target="_blank"
 					class="text-gray-700 transition hover:text-gray-700/75"
@@ -57,7 +64,7 @@
 
 			<li>
 				<a
-					href="/"
+					href="https://twitter.com/Jaydeep_189"
 					rel="noreferrer"
 					target="_blank"
 					class="text-gray-700 transition hover:text-gray-700/75"
@@ -73,7 +80,7 @@
 
 			<li>
 				<a
-					href="/"
+					href="https://github.com/Jaydeep189"
 					rel="noreferrer"
 					target="_blank"
 					class="text-gray-700 transition hover:text-gray-700/75"
@@ -91,12 +98,12 @@
 
 			<li>
 				<a
-					href="/"
+					href="https://www.linkedin.com/in/jaydeep-sharma-zerobitcode/"
 					rel="noreferrer"
 					target="_blank"
 					class="text-gray-700 transition hover:text-gray-700/75"
 				>
-					<span class="sr-only">GitHub</span>
+					<span class="sr-only">LinkedIn</span>
 					<svg
 						fill="currentColor"
 						class=" h-5 w-5"

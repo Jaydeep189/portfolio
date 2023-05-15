@@ -3,7 +3,7 @@
 	import TimeLine from '$lib/util/TimeLine.svelte';
 </script>
 
-<section class=" font-mono py-10">
+<section id="experience" class=" font-mono py-10">
 	<div class="max-w-6xl mx-auto max-lg:mx-5">
 		<h3 class=" text-purple-800 text-2xl font-semibold">Work</h3>
 		<h2 class=" font-bold text-3xl">Experience</h2>
@@ -12,17 +12,19 @@
 		<div class="grid grid-cols-12">
 			<TimeLine
 				title="SSIP Hackathon (Finalist)"
-				description=" Lorem ipsum dolor sit amet consectetur adipisicing elit. Consectetur deleniti commodi, modi itaque autem dignissimos, possimus tempora asperiores assumenda placeat sapiente repellat reiciendis reprehenderit labore eos aspernatur quis nisi dolorum?"
+				description="We got selected in the top 2 teams for the problem statement given by Government of India in the SSIP Hackathon."
 				year="2023"
 			/>
 			<TimeLine
 				title="Stacknyu (Co-Founder)"
-				description=" Lorem ipsum dolor sit amet consectetur adipisicing elit. Consectetur deleniti commodi, modi itaque autem dignissimos, possimus tempora asperiores assumenda placeat sapiente repellat reiciendis reprehenderit labore eos aspernatur quis nisi dolorum?"
+				description=" I had started this company with few of my friends back in 2021 (NULLPRENEURS LLP), I have
+				learned many things from being a co-founder in the company. Learning how to do bussiness as
+				well as how to manage a team, and how to work with clients.  "
 				year="2021"
 			/>
 			<TimeLine
 				title="Freelancing"
-				description=" Lorem ipsum dolor sit amet consectetur adipisicing elit. Consectetur deleniti commodi, modi itaque autem dignissimos, possimus tempora asperiores assumenda placeat sapiente repellat reiciendis reprehenderit labore eos aspernatur quis nisi dolorum?"
+				description="Started doing Freelancing on Fiveer, while in pandemic"
 				year="2020"
 			/>
 		</div>

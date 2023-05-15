@@ -15,37 +15,38 @@
 		<div class=" max-sm:text-xs space-y-3 font-medium">
 			<p>Tradesec AMC India is a security systems company.</p>
 			<p>
-				Lorem ipsum dolor sit amet consectetur adipisicing elit. Facere dolor cum similique nemo
-				quae enim et ducimus eaque illum officia! Rerum, aut? Fugit eaque dolores optio ab maiores
-				nesciunt quos.
+				I have build the website for the company. The website is built using Nextjs, Tailwindcss,
+				and Strapi CMS. It was a great learning experience as the website had many neuanaces, that
+				challenged me to optimize my workflow
 			</p>
 		</div>
 	</div>
 	<ProjectSwiper>
-		<ProjectSlide img="/projects/tradesecamc/2.png" alt="project image" />
-		<ProjectSlide img="/projects/tradesecamc/1.png" alt="project image" />
-		<ProjectSlide img="/projects/tradesecamc/3.png" alt="project image" />
+		<ProjectSlide img="/projects/tradesecamc/2.webp" alt="project image" />
+		<ProjectSlide img="/projects/tradesecamc/1.webp" alt="project image" />
+		<ProjectSlide img="/projects/tradesecamc/3.webp" alt="project image" />
 	</ProjectSwiper>
 	<div class="max-w-2xl mx-auto py-14 space-y-4 max-sm:mx-5">
 		<h1 class=" text-xl md:text-3xl font-bold text-purple-800">Stacknyu (Co-Founder)</h1>
 		<div class=" max-sm:text-xs space-y-3 font-medium">
-			<p>Tradesec AMC India is a security systems company.</p>
+			<p>Stacknyu is a leading software company in new tech.</p>
 			<p>
-				Lorem ipsum dolor sit amet consectetur adipisicing elit. Facere dolor cum similique nemo
-				quae enim et ducimus eaque illum officia! Rerum, aut? Fugit eaque dolores optio ab maiores
-				nesciunt quos.
+				I had started this company with few of my friends back in 2021 (NULLPRENEURS LLP), I have
+				learned many things from being a co-founder in the company. Learning how to do bussiness as
+				well as how to manage a team. This webiste was built on Sveltekit, Tailwindcss, and Ghost
+				CMS. It was a great learning.
 			</p>
 		</div>
 	</div>
 	<ProjectSwiper>
-		<ProjectSlide img="/projects/stacknyu/2.png" alt="project image" />
-		<ProjectSlide img="/projects/stacknyu/1.png" alt="project image" />
-		<ProjectSlide img="/projects/stacknyu/3.png" alt="project image" />
+		<ProjectSlide img="/projects/stacknyu/2.webp" alt="project image" />
+		<ProjectSlide img="/projects/stacknyu/1.webp" alt="project image" />
+		<ProjectSlide img="/projects/stacknyu/3.webp" alt="project image" />
 	</ProjectSwiper>
 
 	<div class=" flex justify-center py-6">
 		<a
-			href="/#work"
+			href="https://stacknyu.com/projects"
 			class=" px-4 py-2 flex gap-1 bg-teal-700 hover:rotate-6 transition-all duration-300 text-white text-base lg:text-lg rounded-md"
 			>View All Projects <ArrowUpRight /></a
 		>
