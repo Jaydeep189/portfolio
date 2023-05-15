@@ -2,7 +2,8 @@
 	<div class=" grid grid-cols-1 md:grid-cols-2 gap-10">
 		<div class=" max-sm:flex max-sm:justify-center">
 			<div class="group w-fit max-w-[250px] md:max-w-sm lg:max-w-none mx-5 lg:mx-auto">
-				<div
+				<a
+					href="/#about"
 					class="rounded-full group-hover:bg-purple-800/90 transition-all duration-300 p-2 md:p-4 bg-[#C8C8C8] w-fit"
 				>
 					<div class=" rounded-full p-2 md:p-4 bg-[#D9D9D9] w-fit">
@@ -12,7 +13,7 @@
 							alt=""
 						/>
 					</div>
-				</div>
+				</a>
 			</div>
 		</div>
 		<div class=" flex items-center max-sm:mx-5">
