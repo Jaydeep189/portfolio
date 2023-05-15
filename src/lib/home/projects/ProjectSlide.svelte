@@ -4,5 +4,5 @@
 </script>
 
 <swiper-slide class=" flex justify-center items-center">
-	<img draggable="false" src={img} class=" max-h-96 drop-shadow-xl" {alt} />
+	<img draggable="false" data-src={img} class=" lazyload max-h-96 drop-shadow-xl" {alt} />
 </swiper-slide>

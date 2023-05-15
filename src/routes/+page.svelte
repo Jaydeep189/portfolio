@@ -16,4 +16,4 @@
 <Experience />
 <About />
 <Education />
-<Contact />
+<!-- <Contact /> -->

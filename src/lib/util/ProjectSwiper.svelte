@@ -8,7 +8,6 @@
 	effect="cards"
 	initial-slide="1"
 	grab-cursor="true"
-	autoplay="true"
 	loop="true"
 	centered-slides="true"
 >

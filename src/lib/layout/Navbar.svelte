@@ -23,9 +23,9 @@
 		<li class=" hover:text-purple-800 transition-all duration-300">
 			<a href="/#about">About</a>
 		</li>
-		<li class=" hover:text-purple-800 transition-all duration-300">
+		<!-- <li class=" hover:text-purple-800 transition-all duration-300">
 			<a href="/#about">Blog</a>
-		</li>
+		</li> -->
 		<li class=" hover:text-purple-800 transition-all duration-300">
 			<a href="/#contact">Contact</a>
 		</li>

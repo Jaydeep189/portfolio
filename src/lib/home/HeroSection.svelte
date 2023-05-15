@@ -24,9 +24,9 @@
 					</h2>
 				</div>
 				<p class="max-sm:text-center text-xs lg:text-base w-full sm:w-10/12 lg:w-full">
-					Lorem ipsum dolor sit amet consectetur adipisicing elit. Veritatis sit illum magni
-					repudiandae et temporibus atque labore, quasi a modi reiciendis ex dolore pariatur
-					tempora, vel ducimus nostrum, quis libero!
+					Discover my web portfolio as a full stack developer. I create software for fun, work, and
+					community. Explore my diverse projects and witness my passion for crafting innovative
+					solutions that make a difference
 				</p>
 				<div class=" flex justify-center md:justify-start gap-5 pt-2">
 					<a

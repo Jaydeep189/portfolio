@@ -7,6 +7,10 @@
 	export let height = 'max-h-16 md:max-h-24';
 </script>
 
+<svelte:head>
+	<link rel="preload" as="image" href={img} />
+</svelte:head>
+
 <a
 	target="_blank"
 	href={link}
