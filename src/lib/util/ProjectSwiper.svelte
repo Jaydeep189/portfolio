@@ -1,16 +1,16 @@
-<script>
-	import { register } from 'swiper/element/bundle';
-	register();
-</script>
-
 <swiper-container
 	class=""
-	effect="cards"
-	css-mode="true"
-	initial-slide="1"
+	effect="coverflow"
 	grab-cursor="true"
-	loop="true"
 	centered-slides="true"
+	autoplay="true"
+	slides-per-view="auto"
+	coverflow-effect-rotate="50"
+	coverflow-effect-stretch="0"
+	coverflow-effect-depth="100"
+	coverflow-effect-modifier="1"
+	initial-slide="1"
+	coverflow-effect-slide-shadows="true"
 >
 	<slot />
 </swiper-container>
