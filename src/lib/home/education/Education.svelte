@@ -3,7 +3,7 @@
 	import TimeLine from '$lib/util/TimeLine.svelte';
 </script>
 
-<section class=" font-mono py-10">
+<section id="education" class=" font-mono py-10">
 	<div class="max-w-6xl mx-auto max-lg:mx-5">
 		<h3 class=" text-fuchsia-600 text-2xl font-semibold">About</h3>
 		<h2 class=" font-bold text-3xl">Education</h2>
