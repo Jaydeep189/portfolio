@@ -8,7 +8,7 @@
 	<h2 class=" font-bold text-3xl">I like building things with</h2>
 	<div class="grid grid-cols-2 lg:grid-cols-4 md:grid-cols-3 gap-5 py-16">
 		<SkillCard name="Sveltekit" link="https://kit.svelte.dev/" img="/frameworks/Svelte.svg" />
-		<SkillCard name="Node.js" link="https://nodejs.org/" img="/frameworks/nodejs.png" />
+		<SkillCard name="Node.js" link="https://nodejs.org/" img="/frameworks/nodejs.webp" />
 		<SkillCard
 			name="Firebase"
 			height=""
@@ -20,7 +20,7 @@
 			link="https://tailwindcss.com/"
 			img="/frameworks/Tailwindcss.svg"
 		/>
-		<SkillCard name="Next.js" link="https://nextjs.org" img="/frameworks/Nextjs.png" />
+		<SkillCard name="Next.js" link="https://nextjs.org" img="/frameworks/Nextjs.webp" />
 		<SkillCard name="Django" link="https://www.djangoproject.com/" img="/frameworks/Django.svg" />
 		<SkillCard name="Flutter" link="https://flutter.dev/" img="/frameworks/Flutter.svg" />
 		<SkillCard name="Astro" link="https://astro.build/" img="/frameworks/Astro.svg" />

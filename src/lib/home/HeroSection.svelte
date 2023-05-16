@@ -1,7 +1,7 @@
 <section class=" max-w-5xl mx-auto py-6 md:py-16 lg:py-20">
 	<div class=" grid grid-cols-1 md:grid-cols-2 gap-10">
 		<div class=" max-sm:flex max-sm:justify-center">
-			<div class="group w-fit max-w-[250px] md:max-w-sm lg:max-w-none mx-5 lg:mx-auto">
+			<a href="/#about" class="group w-fit max-w-[250px] md:max-w-sm lg:max-w-none mx-5 lg:mx-auto">
 				<div
 					class="rounded-full group-hover:bg-purple-800/90 transition-all duration-300 p-2 md:p-4 bg-[#C8C8C8] w-fit"
 				>
@@ -9,11 +9,11 @@
 						<img
 							src="/me.webp"
 							class="rounded-full aspect-auto group-hover:scale-110 transition-transform duration-300 cursor-pointer"
-							alt=""
+							alt="Jaydeep Sharma"
 						/>
 					</div>
 				</div>
-			</div>
+			</a>
 		</div>
 		<div class=" flex items-center max-sm:mx-5">
 			<div class="font-mono space-y-4 max-sm:pt-4">

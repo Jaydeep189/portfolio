@@ -9,7 +9,7 @@
 	</div>
 	<div class=" max-w-5xl mx-auto pt-10 max-sm:mx-5">
 		<div class="grid grid-cols-1 md:grid-cols-12 gap-5">
-			<img class=" rounded-md md:col-span-4" src="/me.jpg" alt="" />
+			<img class=" rounded-md md:col-span-4" src="/me.webp" alt="" />
 			<div class=" space-y-4 md:col-span-8">
 				<h1 class=" text-2xl md:text-4xl font-bold">Curious and Persistant</h1>
 				<div class=" max-sm:text-xs space-y-2 md:w-11/12">
