@@ -17,7 +17,7 @@
 				You can reach out to me via social links given below, or email me at
 				<a
 					href="mailto:sjaydeep189@gmail.com"
-					class=" hover:text-purple-700 transition-colors duration-300">sjaydeep189@gmail.cpm</a
+					class=" hover:text-purple-700 transition-colors duration-300">sjaydeep189@gmail.com</a
 				>
 			</p>
 

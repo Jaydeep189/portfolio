@@ -18,7 +18,7 @@
 						jaydeep.
 					</p>
 					<p>
-						I am a very curious person, regardless of the subject. I enjoy delving deep into
+						I am a very curious person, regardless of the subject. I enjoy diving deep into
 						understanding the intricacies of this complex world while appreciating its beauty amidst
 						the chaos.
 					</p>
