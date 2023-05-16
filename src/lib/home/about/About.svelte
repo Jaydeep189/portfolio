@@ -18,18 +18,19 @@
 						jaydeep.
 					</p>
 					<p>
-						I am a very curious person, no matter the subject. I like to dive deep into
-						understanding the workings of this complex world while admiring it's beauty in chaos.
+						I am a very curious person, regardless of the subject. I enjoy delving deep into
+						understanding the intricacies of this complex world while appreciating its beauty amidst
+						the chaos.
 					</p>
 					<p>
-						I like building things, there is a certain sense of pride in building something for
-						yourself and others. Creating something out of nothingness, making things exist in the
-						real world.
+						I have a passion for building things. There's a certain sense of pride in creating
+						something for yourself and others. Transforming nothingness into tangible existence in
+						the real world.
 					</p>
 					<p>
-						I like reading literature, philosophy and movies, I like how people just write complex
-						things in simple terms, feels that are so complex to express and yet they do it so
-						beautifully.
+						I also enjoy reading literature, philosophy, and watching movies. I appreciate how
+						people can articulate complex ideas in simple terms, expressing intricate emotions that
+						are challenging to convey, yet they do so beautifully.
 					</p>
 				</div>
 			</div>

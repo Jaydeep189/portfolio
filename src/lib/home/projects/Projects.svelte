@@ -15,9 +15,9 @@
 		<div class=" max-sm:text-xs space-y-3 font-medium">
 			<p>Tradesec AMC India is a security systems company.</p>
 			<p>
-				I have build the website for the company. The website is built using Nextjs, Tailwindcss,
-				and Strapi CMS. It was a great learning experience as the website had many neuanaces, that
-				challenged me to optimize my workflow
+				I have built the website for the company. The website is built using Next.js, Tailwind CSS,
+				and Strapi CMS. It was a great learning experience as the website had many nuances that
+				challenged me to optimize my workflow.
 			</p>
 		</div>
 	</div>
@@ -31,10 +31,10 @@
 		<div class=" max-sm:text-xs space-y-3 font-medium">
 			<p>Stacknyu is a leading software company in new tech.</p>
 			<p>
-				I had started this company with few of my friends back in 2021 (NULLPRENEURS LLP), I have
-				learned many things from being a co-founder in the company. Learning how to do bussiness as
-				well as how to manage a team. This webiste was built on Sveltekit, Tailwindcss, and Ghost
-				CMS. It was a great learning.
+				I started this company with a few of my friends back in 2021 (NULLPRENEURS LLP). I have
+				learned many things from being a co-founder in the company, such as learning how to do
+				business and how to manage a team. This website was built on SvelteKit, Tailwind CSS, and
+				Ghost CMS. It was a great learning experience.
 			</p>
 		</div>
 	</div>

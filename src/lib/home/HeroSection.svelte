@@ -7,7 +7,7 @@
 				>
 					<div class=" rounded-full p-2 md:p-4 bg-[#D9D9D9] w-fit">
 						<img
-							src="/me.jpg"
+							src="/me.webp"
 							class="rounded-full aspect-auto group-hover:scale-110 transition-transform duration-300 cursor-pointer"
 							alt=""
 						/>

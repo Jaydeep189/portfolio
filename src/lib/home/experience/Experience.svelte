@@ -12,19 +12,17 @@
 		<div class="grid grid-cols-12">
 			<TimeLine
 				title="SSIP Hackathon (Finalist)"
-				description="We got selected in the top 2 teams for the problem statement given by Government of India in the SSIP Hackathon."
+				description="We were selected as one of the top two teams for the problem statement given by the Government of India in the SSIP Hackathon."
 				year="2023"
 			/>
 			<TimeLine
 				title="Stacknyu (Co-Founder)"
-				description=" I had started this company with few of my friends back in 2021 (NULLPRENEURS LLP), I have
-				learned many things from being a co-founder in the company. Learning how to do bussiness as
-				well as how to manage a team, and how to work with clients.  "
+				description="I started this company with a few of my friends back in 2021 (NULLPRENEURS LLP). I have learned many things from being a co-founder in the company, such as learning how to do business, how to manage a team, and how to work with clients. "
 				year="2021"
 			/>
 			<TimeLine
 				title="Freelancing"
-				description="Started doing Freelancing on Fiveer, while in pandemic"
+				description="I started doing freelancing on Fiverr during the pandemic."
 				year="2020"
 			/>
 		</div>

@@ -18,13 +18,13 @@
 			/>
 			<TimeLine
 				title="Higher Secondary Education (Science)"
-				description="Stuided from Shree Narayan Vidhayalaya, Vadodara"
+				description="Studied from Shree Narayan Vidhayalaya, Vadodara"
 				year="2020"
 				color="text-fuchsia-600"
 			/>
 			<TimeLine
 				title=" Secondary Education"
-				description="Stuided from Shashi Dhan Day School, Dahod"
+				description="Studied from Shashi Dhan Day School, Dahod"
 				year="2018"
 				color="text-fuchsia-600"
 			/>

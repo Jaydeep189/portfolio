@@ -3,6 +3,7 @@
 	import Navbar from '$lib/layout/Navbar.svelte';
 	import '../app.css';
 	import 'lazysizes';
+	import { navigating } from '$app/stores';
 </script>
 
 <svelte:head>
