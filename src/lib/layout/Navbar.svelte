@@ -1,7 +1,7 @@
 <script>
 	import { Menu, X } from 'lucide-svelte';
 
-	let menuOpen = true;
+	let menuOpen = false;
 
 	const handleMenu = () => {
 		menuOpen = !menuOpen;
