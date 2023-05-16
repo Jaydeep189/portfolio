@@ -6,6 +6,7 @@
 <swiper-container
 	class=""
 	effect="cards"
+	css-mode="true"
 	initial-slide="1"
 	grab-cursor="true"
 	loop="true"
